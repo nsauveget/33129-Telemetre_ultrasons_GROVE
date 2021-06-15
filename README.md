@@ -2,7 +2,7 @@
 
 Télémètre ultrasons GROVE [33129](https://www.pierron.fr/interface-arduino-uno-5968.html)
 
-<div style="text-align: justify">Module télémètre compatible Grove permettant de mesurer une distance, sans contact, à l'aide de transducteurs à ultrasons. Ce module se raccorde sur une entrée analogique de la Base Shield via un câble 4 conducteur.</div>
+<div style="text-align: justify">Module télémètre compatible Grove permettant de mesurer une distance, sans contact, à l'aide de transducteurs à ultrasons. Ce module se raccorde sur une entrée analogique de la Base Shield via un câble 4 conducteurs.</div>
 
 Caractéristiques techniques :
 - Alimentation 3,3 à 5 V
@@ -22,7 +22,7 @@ Ou
 <div style="text-align: justify">Pour utiliser la librairie dans votre propre projet, importez-la avec  Sketch > Import Library.</div>
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Schéma :
 
